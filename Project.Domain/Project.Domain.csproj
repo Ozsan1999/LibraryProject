@@ -41,7 +41,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Entities\Book.cs" />
     <Compile Include="Entities\Author.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
